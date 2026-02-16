@@ -73,20 +73,29 @@ Mohawk College, Hamilton, ON<br>
  <td>Generate names using names dataset</td>
 </tr>
 <tr>
- <td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
+ <td><a href="www.google.com">Password Generator</a></td>
+ <td>Generate random passwords</td>
 </tr>
 <tr>
- <td>| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |</td>
+ <td><a href="www.google.com">Podcast Directory</a></td>
+ <td>Directory of favorite podcasts</td>
 </tr>
 <tr>
- <td>| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |</td>
+ <td><a href="www.google.com">QR Code Badge Generator</a></td>
+ <td>Encode badge info in a QRcode</td>
 </tr>
 <tr>
- <td>| [Regular Expression Helper](www.google.com)       | Test Regular Expressions                           |</td>
+ <td><a href="www.google.com">Regular Expression Helper</a></td>
+ <td>Test Regular Expressions</td>
 </tr>
 <tr>
- <td>| [Sales Reciepts App](www.google.com)                   | Record Sales Receipts in a DB                      |</td>
-</tr>| [Simple Online Store](www.google.com)           | Simple Online Store                                |</td>
+ <td><a href="www.google.com">Sales Reciepts App</a></td>
+ <td>Record Sales Receipts in a DB</td>
+</tr>
+<tr>
+ <td><a href="www.google.com"></a></td>
+ <td>Simple Online Store</td>
+</tr>
 <tr>
  <td>| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |</td>
 </tr>
