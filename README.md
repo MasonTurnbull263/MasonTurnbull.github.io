@@ -22,6 +22,7 @@ Mohawk College, Hamilton, ON<br>
 
 ### Projects
 <!DOCTYPE html>
+<html>
 <table>
  <tr>
   <th>Name</th>
