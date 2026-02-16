@@ -21,8 +21,6 @@ Mohawk College, Hamilton, ON<br>
  - Communication between team members and management
 
 ### Projects
-<!DOCTYPE html>
-<html>
 <table>
  <tr>
   <th>Name</th>
@@ -121,7 +119,6 @@ Mohawk College, Hamilton, ON<br>
   <td>Typing Practice</td>
  </tr>
 </table>
-</html>
 
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
