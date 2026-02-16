@@ -5,10 +5,9 @@
 I am a fourth-semester Software Engineering student with a strong foundation in programming, data structures, and object-oriented design. Over the past two years, I have gained hands-on experience developing small to mid-sized applications, working with languages such as Java, Python, and C++. I am comfortable applying algorithms, managing databases, and using version control systems like Git in both individual and team-based projects. Through collaborative coursework, I have strengthened my problem-solving, debugging, and software design skills while following Agile development practices. I am continuously expanding my knowledge in areas such as web development, APIs, and software architecture. This page serves as a portfolio of my work, showcasing the projects I have built and the skills I have developed throughout my academic journey.
 
 ### Education
-Computer Systems Technology 	 	 	 	 	 	         
-Software Development Advanced Diploma 
-Mohawk College, Hamilton, ON.
-
+Computer Systems Technology<br>       
+Software Development Advanced Diploma<br> 
+Mohawk College, Hamilton, ON<br>
 *Deans List*
 ### Skills
 #### Technical Skills
@@ -24,6 +23,6 @@ Mohawk College, Hamilton, ON.
 ### Projects
 
 ### Contact Information
-Linkedin: [Click Here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-Email: Mason.Turnbull1@mohawkcollege.ca
+Linkedin: [Click Here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
+Email: Mason.Turnbull1@mohawkcollege.ca<br>
 Phone number: 012-345-6789
