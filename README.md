@@ -23,18 +23,18 @@ Mohawk College, Hamilton, ON<br>
 ### Projects
 | Name                                                                              | Short Description                                  |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [Book Finder App](www.google.com)                   | Search for books by multiple criteria              |
-| [Calculator CLI](www.google.com)                     | Create a basic calculator cli.                     |
-| [Card Memory Game](www.google.com)                 | Memorize and match hidden images                   |
-| [Currency Converter](www.google.com)             | Convert one currency to another.                   |
-| [Drawing App](www.google.com)                           | Create digital artwork on the web                  |
-| [Flashcards App](www.google.com)                     | Review and test your knowledge through Flash Cards |
-| [Game Suggestion App](www.google.com)           | Create polls to decide what games to play          |
-| [Markdown Previewer](www.google.com)             | Preview text formatted in GitHub flavored markdown |
-| [Markdown Table Generator](www.google.com) | Convert a table into Markdown-formatted text       |
-| [Math Editor](www.google.com)                           | A math editor for students to use                  |
-| [Meme Generator App](www.google.com)             | Create custom memes                                |
-| [Name Generation using RNNs](www.google.com)         | Generate names using names dataset                 |
+| [Book Finder App](www.google.com)                                                 | Search for books by multiple criteria              |
+| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |
+| [Card Memory Game](www.google.com)                                                | Memorize and match hidden images                   |
+| [Currency Converter](www.google.com)                                              | Convert one currency to another.                   |
+| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |
+| [Flashcards App](www.google.com)                                                  | Review and test your knowledge through Flash Cards |
+| [Game Suggestion App](www.google.com)                                             | Create polls to decide what games to play          |
+| [Markdown Previewer](www.google.com)                                              | Preview text formatted in GitHub flavored markdown |
+| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |
+| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |
+| [Meme Generator App](www.google.com)                                              | Create custom memes                                |
+| [Name Generation using RNNs](www.google.com)                                      | Generate names using names dataset                 |
 | [Password Generator](www.google.com)             | Generate random passwords                          |
 | [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |
 | [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |
