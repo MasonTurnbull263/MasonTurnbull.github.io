@@ -17,7 +17,9 @@ Mohawk College, Hamilton, ON.
  - Design and prototyping (Figma, WordPress)
 
 #### Soft Skills
- -
+ - Experience working with teams
+ - Work in high pace stressful environments
+ - Communication between team members and management
 
 ### Projects
 
