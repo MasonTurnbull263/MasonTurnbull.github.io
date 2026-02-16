@@ -21,7 +21,7 @@ Mohawk College, Hamilton, ON<br>
  - Communication between team members and management
 
 ### Projects
-<html>
+<!DOCTYPE html>
 <table>
  <tr>
   <th>Name</th>
