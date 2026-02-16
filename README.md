@@ -57,11 +57,20 @@ Mohawk College, Hamilton, ON<br>
  <td>Preview text formatted in GitHub flavored markdown</td>
 </tr>
 <tr>
- <td>| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |</td>
+ <td><a href="www.google.com">Markdown Table Generator</a></td>
+ <td>Convert a table into Markdown-formatted text</td>
 </tr>
- <td>| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |</td>
-<td>| [Meme Generator App](www.google.com)                                              | Create custom memes                                |</td>
-<td>| [Name Generation using RNNs](www.google.com)                                      | Generate names using names dataset                 |</td>
+<tr>
+ <td><a href="www.google.com">Math Editor</a></td>
+ <td>A math editor for students to use</td>
+</tr>
+<tr>
+ <td><a href="www.google.com">Meme Generator App</a></td>
+ <td>Create custom memes</td>
+</tr>
+<tr>
+ <td><a href="www.google.com">Name Generation using RNNs</a></td>
+ <td>Generate names using names dataset</td>
 <td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
 <td>| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |</td>
 <td>| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |</td>
