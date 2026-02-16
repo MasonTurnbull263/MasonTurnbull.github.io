@@ -22,10 +22,14 @@ Mohawk College, Hamilton, ON<br>
 
 ### Projects
 <table>
-<th>| Name                                                                              | Short Description                                  |</th>
-<td>| --------------------------------------------------------------------------------- | -------------------------------------------------- |</td>
-<td>| [Book Finder App](www.google.com)                                                 | Search for books by multiple criteria              |</td>
-<td>| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |</td>
+<tr>
+ <th>Name</th>
+ <th>Short Description</th>
+</tr>
+<tr>
+ <td>[Book Finder App](www.google.com)</td><td>Search for books by multiple criteria</td>
+</tr>
+ <td>| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |</td>
 <td>| [Card Memory Game](www.google.com)                                                | Memorize and match hidden images                   |</td>
 <td>| [Currency Converter](www.google.com)                                              | Convert one currency to another.                   |</td>
 <td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
