@@ -117,6 +117,7 @@ Mohawk College, Hamilton, ON<br>
  <td>Typing Practice</td>
 </tr>
 </table>
+
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
 Email: Mason.Turnbull1@mohawkcollege.ca<br>
