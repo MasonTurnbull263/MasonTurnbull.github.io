@@ -20,7 +20,7 @@ Mohawk College, Hamilton, ON<br>
  - Work in high pace stressful environments
  - Communication between team members and management
 
-### Projects
+### Projects (Not actual projects just examples)
 <table>
  <tr>
   <th>Name</th>
