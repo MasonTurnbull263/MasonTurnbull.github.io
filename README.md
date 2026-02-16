@@ -42,12 +42,24 @@ Mohawk College, Hamilton, ON<br>
  <td><a href="www.google.com">Currency Converter</a></td>
  <td>Convert one currency to another.</td>
 </tr>
- <td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
-<td>| [Flashcards App](www.google.com)                                                  | Review and test your knowledge through Flash Cards |</td>
-<td>| [Game Suggestion App](www.google.com)                                             | Create polls to decide what games to play          |</td>
-<td>| [Markdown Previewer](www.google.com)                                              | Preview text formatted in GitHub flavored markdown |</td>
-<td>| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |</td>
-<td>| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |</td>
+ <td><a href="www.google.com">Drawing App</a>
+ <td>Create digital artwork on the web</td>
+<tr>
+ <td><a href="www.google.com">Flashcards App</a></td>
+ <td>Review and test your knowledge through Flash Cards</td>
+</tr>
+<tr>
+ <td><a href="www.google.com">Game Suggestion App</a></td>
+ <td>Create polls to decide what games to play</td>
+</tr>
+<tr>
+ <td><a href="www.google.com">Markdown Previewer</a></td>
+ <td>Preview text formatted in GitHub flavored markdown</td>
+</tr>
+<tr>
+ <td>| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |</td>
+</tr>
+ <td>| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |</td>
 <td>| [Meme Generator App](www.google.com)                                              | Create custom memes                                |</td>
 <td>| [Name Generation using RNNs](www.google.com)                                      | Generate names using names dataset                 |</td>
 <td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
