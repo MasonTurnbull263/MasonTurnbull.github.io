@@ -93,23 +93,28 @@ Mohawk College, Hamilton, ON<br>
  <td>Record Sales Receipts in a DB</td>
 </tr>
 <tr>
- <td><a href="www.google.com"></a></td>
+ <td><a href="www.google.com">Simple Online Store</a></td>
  <td>Simple Online Store</td>
 </tr>
 <tr>
- <td>| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |</td>
+ <td><a href="www.google.com">Sports Bracket Generator</a></td>
+ <td>Generate a sports bracket diagram</td>
 </tr>
 <tr>
- <td>| [String Art](www.google.com)                             | An animation of moving, colored strings            |</td>
+ <td><a href="www.google.com">String Art</a></td>
+ <td>An animation of moving, colored strings</td>
 </tr>
 <tr>
- <td>| [This or That Game](www.google.com)               | This or That Game                                  |</td>
+ <td><a href="www.google.com">This or That Game</a></td>
+ <td>This or That Game</td>
 </tr>
 <tr>
- <td>| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |</td>
+ <td><a href="www.google.com">To-Do App</a></td>
+ <td>Manage personal to-do tasks</td>
 </tr>
 <tr>
- <td>| [Typing Practice](www.google.com)               | Typing Practice                                    |</td>
+ <td><a href="www.google.com">Typing Practice</a></td>
+ <td>Typing Practice</td>
 </tr>
 </table>table>
 ### Contact Information
