@@ -27,12 +27,22 @@ Mohawk College, Hamilton, ON<br>
  <th>Short Description</th>
 </tr>
 <tr>
- <td>[Book Finder App](www.google.com)</td><td>Search for books by multiple criteria</td>
+ <td>[Book Finder App](www.google.com)</td>
+ <td>Search for books by multiple criteria</td>
 </tr>
- <td>| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |</td>
-<td>| [Card Memory Game](www.google.com)                                                | Memorize and match hidden images                   |</td>
-<td>| [Currency Converter](www.google.com)                                              | Convert one currency to another.                   |</td>
-<td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
+<tr>
+ <td>[Calculator CLI](www.google.com</td> 
+ <td>Create a basic calculator cli.</td>
+</tr>
+<tr>
+ <td>[Card Memory Game](www.google.com)</td>
+ <td></td>Memorize and match hidden images</td>
+</tr>
+<tr>
+ <td>[Currency Converter](www.google.com)</td>
+ <td>Convert one currency to another.</td>
+</tr>
+ <td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
 <td>| [Flashcards App](www.google.com)                                                  | Review and test your knowledge through Flash Cards |</td>
 <td>| [Game Suggestion App](www.google.com)                                             | Create polls to decide what games to play          |</td>
 <td>| [Markdown Previewer](www.google.com)                                              | Preview text formatted in GitHub flavored markdown |</td>
