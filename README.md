@@ -11,6 +11,13 @@ Mohawk College, Hamilton, ON.
 
 *Deans List*
 ### Skills
+#### Technical Skills
+ - Programming knowledge (Python, Java, Javascript, C#, PHP, HTML/CSS)
+ - Database knowledge (SQL, MySql)
+ - Design and prototyping (Figma, WordPress)
+
+#### Soft Skills
+ -
 
 ### Projects
 
