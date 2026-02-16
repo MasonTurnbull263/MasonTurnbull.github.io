@@ -42,9 +42,11 @@ Mohawk College, Hamilton, ON<br>
   <td><a href="www.google.com">Currency Converter</a></td>
   <td>Convert one currency to another.</td>
  </tr>
+ <tr>
   <td><a href="www.google.com">Drawing App</a>
   <td>Create digital artwork on the web</td>
- <tr>
+</tr>
+<tr>
   <td><a href="www.google.com">Flashcards App</a></td>
   <td>Review and test your knowledge through Flash Cards</td>
  </tr>
