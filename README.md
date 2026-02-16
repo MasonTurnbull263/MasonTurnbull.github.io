@@ -21,32 +21,34 @@ Mohawk College, Hamilton, ON<br>
  - Communication between team members and management
 
 ### Projects
-| Name                                                                              | Short Description                                  |
-| --------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [Book Finder App](www.google.com)                                                 | Search for books by multiple criteria              |
-| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |
-| [Card Memory Game](www.google.com)                                                | Memorize and match hidden images                   |
-| [Currency Converter](www.google.com)                                              | Convert one currency to another.                   |
-| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |
-| [Flashcards App](www.google.com)                                                  | Review and test your knowledge through Flash Cards |
-| [Game Suggestion App](www.google.com)                                             | Create polls to decide what games to play          |
-| [Markdown Previewer](www.google.com)                                              | Preview text formatted in GitHub flavored markdown |
-| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |
-| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |
-| [Meme Generator App](www.google.com)                                              | Create custom memes                                |
-| [Name Generation using RNNs](www.google.com)                                      | Generate names using names dataset                 |
-| [Password Generator](www.google.com)             | Generate random passwords                          |
-| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |
-| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |
-| [Regular Expression Helper](www.google.com)       | Test Regular Expressions                           |
-| [Sales Reciepts App](www.google.com)                   | Record Sales Receipts in a DB                      |
-| [Simple Online Store](www.google.com)           | Simple Online Store                                |
-| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |
-| [String Art](www.google.com)                             | An animation of moving, colored strings            |
-| [This or That Game](www.google.com)               | This or That Game                                  |
-| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |
-| [Typing Practice](www.google.com)               | Typing Practice                                    |
-
+<table>
+<th>| Name                                                                              | Short Description                                  |</th>
+<td>| --------------------------------------------------------------------------------- | -------------------------------------------------- |</td>
+<td>| [Book Finder App](www.google.com)                                                 | Search for books by multiple criteria              |</td>
+<td>| [Calculator CLI](www.google.com)                                                  | Create a basic calculator cli.                     |</td>
+<td>| [Card Memory Game](www.google.com)                                                | Memorize and match hidden images                   |</td>
+<td>| [Currency Converter](www.google.com)                                              | Convert one currency to another.                   |</td>
+<td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
+<td>| [Flashcards App](www.google.com)                                                  | Review and test your knowledge through Flash Cards |</td>
+<td>| [Game Suggestion App](www.google.com)                                             | Create polls to decide what games to play          |</td>
+<td>| [Markdown Previewer](www.google.com)                                              | Preview text formatted in GitHub flavored markdown |</td>
+<td>| [Markdown Table Generator](www.google.com)                                        | Convert a table into Markdown-formatted text       |</td>
+<td>| [Math Editor](www.google.com)                                                     | A math editor for students to use                  |</td>
+<td>| [Meme Generator App](www.google.com)                                              | Create custom memes                                |</td>
+<td>| [Name Generation using RNNs](www.google.com)                                      | Generate names using names dataset                 |</td>
+<td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
+<td>| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |</td>
+<td>| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |</td>
+<td>| [Regular Expression Helper](www.google.com)       | Test Regular Expressions                           |</td>
+<td>| [Sales Reciepts App](www.google.com)                   | Record Sales Receipts in a DB                      |</td>
+<td>| [Simple Online Store](www.google.com)           | Simple Online Store                                |</td>
+<td>| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |</td>
+<td>| [String Art](www.google.com)                             | An animation of moving, colored strings            |</td>
+<td>| [This or That Game](www.google.com)               | This or That Game                                  |</td>
+<td>| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |</td>
+<td>| [Typing Practice](www.google.com)               | Typing Practice                                    |</td>
+</ul>
+</table>table>
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
 Email: Mason.Turnbull1@mohawkcollege.ca<br>
