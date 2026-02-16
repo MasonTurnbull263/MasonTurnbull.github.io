@@ -2,6 +2,7 @@
 ## Portfolio
 
 ### Summary
+I am a fourth-semester Software Engineering student with a strong foundation in programming, data structures, and object-oriented design. Over the past two years, I have gained hands-on experience developing small to mid-sized applications, working with languages such as Java, Python, and C++. I am comfortable applying algorithms, managing databases, and using version control systems like Git in both individual and team-based projects. Through collaborative coursework, I have strengthened my problem-solving, debugging, and software design skills while following Agile development practices. I am continuously expanding my knowledge in areas such as web development, APIs, and software architecture. This page serves as a portfolio of my work, showcasing the projects I have built and the skills I have developed throughout my academic journey.
 
 ### Education
 
