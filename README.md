@@ -36,7 +36,7 @@ Mohawk College, Hamilton, ON<br>
 </tr>
 <tr>
  <td>[Card Memory Game](www.google.com)</td>
- <td></td>Memorize and match hidden images</td>
+ <td>Memorize and match hidden images</td>
 </tr>
 <tr>
  <td>[Currency Converter](www.google.com)</td>
