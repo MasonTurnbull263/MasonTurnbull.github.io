@@ -31,15 +31,15 @@ Mohawk College, Hamilton, ON<br>
  <td>Search for books by multiple criteria</td>
 </tr>
 <tr>
- <td>[Calculator CLI](www.google.com</td> 
+ <td><a href="www.google.com">Calculator CLI</a></td> 
  <td>Create a basic calculator cli.</td>
 </tr>
 <tr>
- <td>[Card Memory Game](www.google.com)</td>
+ <td><a href="www.google.com">Card Memory Game</a></td>
  <td>Memorize and match hidden images</td>
 </tr>
 <tr>
- <td>[Currency Converter](www.google.com)</td>
+ <td><a href="www.google.com">Currency Converter</a></td>
  <td>Convert one currency to another.</td>
 </tr>
  <td>| [Drawing App](www.google.com)                                                     | Create digital artwork on the web                  |</td>
@@ -61,7 +61,6 @@ Mohawk College, Hamilton, ON<br>
 <td>| [This or That Game](www.google.com)               | This or That Game                                  |</td>
 <td>| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |</td>
 <td>| [Typing Practice](www.google.com)               | Typing Practice                                    |</td>
-</ul>
 </table>table>
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
