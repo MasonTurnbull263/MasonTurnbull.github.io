@@ -43,7 +43,7 @@ Mohawk College, Hamilton, ON<br>
   <td>Convert one currency to another.</td>
  </tr>
  <tr>
-  <td><a href="www.google.com">Drawing App</a>
+  <td><a href="www.google.com">Drawing App</a></td>
   <td>Create digital artwork on the web</td>
 </tr>
 <tr>
