@@ -71,17 +71,37 @@ Mohawk College, Hamilton, ON<br>
 <tr>
  <td><a href="www.google.com">Name Generation using RNNs</a></td>
  <td>Generate names using names dataset</td>
-<td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
-<td>| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |</td>
-<td>| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |</td>
-<td>| [Regular Expression Helper](www.google.com)       | Test Regular Expressions                           |</td>
-<td>| [Sales Reciepts App](www.google.com)                   | Record Sales Receipts in a DB                      |</td>
-<td>| [Simple Online Store](www.google.com)           | Simple Online Store                                |</td>
-<td>| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |</td>
-<td>| [String Art](www.google.com)                             | An animation of moving, colored strings            |</td>
-<td>| [This or That Game](www.google.com)               | This or That Game                                  |</td>
-<td>| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |</td>
-<td>| [Typing Practice](www.google.com)               | Typing Practice                                    |</td>
+</tr>
+<tr>
+ <td>| [Password Generator](www.google.com)             | Generate random passwords                          |</td>
+</tr>
+<tr>
+ <td>| [Podcast Directory](www.google.com)           | Directory of favorite podcasts                     |</td>
+</tr>
+<tr>
+ <td>| [QR Code Badge Generator](www.google.com)          | Encode badge info in a QRcode                      |</td>
+</tr>
+<tr>
+ <td>| [Regular Expression Helper](www.google.com)       | Test Regular Expressions                           |</td>
+</tr>
+<tr>
+ <td>| [Sales Reciepts App](www.google.com)                   | Record Sales Receipts in a DB                      |</td>
+</tr>| [Simple Online Store](www.google.com)           | Simple Online Store                                |</td>
+<tr>
+ <td>| [Sports Bracket Generator](www.google.com) | Generate a sports bracket diagram                  |</td>
+</tr>
+<tr>
+ <td>| [String Art](www.google.com)                             | An animation of moving, colored strings            |</td>
+</tr>
+<tr>
+ <td>| [This or That Game](www.google.com)               | This or That Game                                  |</td>
+</tr>
+<tr>
+ <td>| [To-Do App](www.google.com)                               | Manage personal to-do tasks                        |</td>
+</tr>
+<tr>
+ <td>| [Typing Practice](www.google.com)               | Typing Practice                                    |</td>
+</tr>
 </table>table>
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
