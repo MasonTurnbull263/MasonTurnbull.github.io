@@ -7,7 +7,7 @@ I am a fourth-semester Software Engineering student with a strong foundation in 
 ### Education
 Computer Systems Technology 	 	 	 	 	 	         
 Software Development Advanced Diploma 
-Mohawk College, Hamilton, ON asdasd
+Mohawk College, Hamilton, ON.
 
 *Deans List*
 ### Skills
