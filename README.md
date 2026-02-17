@@ -27,7 +27,7 @@ Mohawk College, Hamilton, ON<br>
   <th>Short Description</th>
  </tr>
  <tr>
-  <td><a href="">Book Finder App</a></td>
+  <td><a href="www.google.com">Book Finder App</a></td>
   <td>Search for books by multiple criteria</td>
  </tr>
  <tr>
