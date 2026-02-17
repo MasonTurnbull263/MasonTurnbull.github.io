@@ -121,6 +121,7 @@ Mohawk College, Hamilton, ON<br>
 </table>
 
 ### Resume
+[Resume](https://github.com/MasonTurnbull263/MasonTurnbull.github.io/blob/a7bc1edbaedfd4f1f1f848e46bbefc902ffb5b18/MasonTurnbullResume.pdf)
 
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
