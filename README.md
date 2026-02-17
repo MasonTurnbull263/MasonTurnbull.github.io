@@ -122,5 +122,5 @@ Mohawk College, Hamilton, ON<br>
 
 ### Contact Information
 [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)<br>
-Email: Mason.Turnbull1@mohawkcollege.ca<br>
-Phone number: 012-345-6789
+Email: <a href="mailto:Mason.Turnbull1@mohawkcollege.ca">Mason.Turnbull1@mohawkcollege.ca</a><br>
+Phone number: <a href="tel:+0123456789">012-345-6789</a>
